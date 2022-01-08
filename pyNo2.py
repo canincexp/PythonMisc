@@ -7,4 +7,4 @@ nput=input('please enter the word \n')
 
 n=inp.find(nput)
 d=int(n)
-print(inp[:d])
+print(inp[d:])
